@@ -36,8 +36,13 @@ $RECYCLE.BIN/
 .Trashes
 
 # Directories potentially created on remote AFP share
+.idea
+target
 .AppleDB
 .AppleDesktop
 Network Trash Folder
 Temporary Items
 .apdisk
+Greedy.iml
+*.name
+.idea/compiler.xml
